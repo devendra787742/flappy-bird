@@ -380,5 +380,6 @@ def run_game():
 if __name__ == "__main__":
     run_game()
 # use this in cmd to run it 
-#cd "C:\Users\1devi\OneDrive\Desktop\FlappyGame"
+#cd C:\Users\singh\Downloads> python flappy_bird.py
 #python flappy_bird.py
+
